@@ -1,0 +1,5 @@
+LLAMA_BIN = "/home/shrikar/llama.cpp/build/bin/llama-cli"
+MODEL_PATH = "/home/shrikar/llama.cpp/models/llama3-8b-q4.gguf"
+
+GPU_LAYERS = 20
+
